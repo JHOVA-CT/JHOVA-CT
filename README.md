@@ -118,3 +118,24 @@ GitHub: <a href="https://github.com/JHOVA-CT">github.com/JHOVA-CT</a>
 <p align="center">
 ⭐ <i>"Technology, software and data can transform decisions and create smarter solutions."</i>
 </p>
+<h2>📫 Contact</h2>
+
+<p align="center">
+
+<a href="https://github.com/JHOVA-CT">
+<img src="https://img.shields.io/badge/GitHub-JHOVA--CT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC5xIUfpyW4Lx3cixGV8DyZA">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@jhovacode?_r=1&_t=ZS-94fcq98KBsL">
+<img src="https://img.shields.io/badge/TikTok-Profile-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/59169868322">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
